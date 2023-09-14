@@ -20,4 +20,6 @@ void PrintArr (string[] array) {
     }
 }
 
-
+Console.WriteLine();
+NewArr(array,array1);
+PrintArr(array1);
