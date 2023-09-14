@@ -13,3 +13,11 @@ void NewArr (string [] array, string [] array1) {
 }
 
 
+void PrintArr (string[] array) {
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]}");
+    }
+}
+
+
