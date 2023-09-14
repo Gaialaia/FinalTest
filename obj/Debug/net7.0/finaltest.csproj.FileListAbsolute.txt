@@ -1,0 +1,15 @@
+/home/gaia/finaltest/bin/Debug/net7.0/finaltest
+/home/gaia/finaltest/bin/Debug/net7.0/finaltest.deps.json
+/home/gaia/finaltest/bin/Debug/net7.0/finaltest.runtimeconfig.json
+/home/gaia/finaltest/bin/Debug/net7.0/finaltest.dll
+/home/gaia/finaltest/bin/Debug/net7.0/finaltest.pdb
+/home/gaia/finaltest/obj/Debug/net7.0/finaltest.csproj.AssemblyReference.cache
+/home/gaia/finaltest/obj/Debug/net7.0/finaltest.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaia/finaltest/obj/Debug/net7.0/finaltest.AssemblyInfoInputs.cache
+/home/gaia/finaltest/obj/Debug/net7.0/finaltest.AssemblyInfo.cs
+/home/gaia/finaltest/obj/Debug/net7.0/finaltest.csproj.CoreCompileInputs.cache
+/home/gaia/finaltest/obj/Debug/net7.0/finaltest.dll
+/home/gaia/finaltest/obj/Debug/net7.0/refint/finaltest.dll
+/home/gaia/finaltest/obj/Debug/net7.0/finaltest.pdb
+/home/gaia/finaltest/obj/Debug/net7.0/finaltest.genruntimeconfig.cache
+/home/gaia/finaltest/obj/Debug/net7.0/ref/finaltest.dll
