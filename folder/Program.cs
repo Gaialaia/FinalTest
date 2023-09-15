@@ -19,8 +19,6 @@ for (int i = 0; i < array.Length; i++)
 }
 Console.ReadLine();
 
-
-
 void ShortArr (string [] array, string [] array1) {
      int count = 0;
 
