@@ -21,7 +21,7 @@ void PrintArr (string[] array) {
       
 
     }
- }
+ }cle
 
  Console.WriteLine();
 NewArr(array,array1);
