@@ -1,7 +1,5 @@
-﻿string[] array = new string [4] {"lo", "+", "kit", "fun"};
+﻿string[] array = new string [] {"lo", "+", "kit", "fun"};
 string[] array1 = new string [array.Length];
-
-
 
 
 void NewArr (string [] array, string [] array1) {
@@ -15,7 +13,7 @@ void NewArr (string [] array, string [] array1) {
 }
  }
 
-
+Console.WriteLine("Array :");
 void PrintArr (string[] array) {
      for (int i = 0; i < array.Length; i++)
   {
